@@ -1,4 +1,4 @@
-Sports Warehouse Business Case Executive Summary
+## Sports Warehouse Business Case Executive Summary
 Overview
 The proposed development of an online shopping portal offers Sports Warehouse a unique opportunity to boost sales and extend customer reach. This portal will enable 24/7 product sales across Australia without the need for costly physical retail infrastructure. It also holds the potential for expanding sales internationally without increasing operational costs.
 
